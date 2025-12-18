@@ -1,32 +1,38 @@
 [
     {
-        "src": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600",
-        "title": "Mountain Vista",
-        "category": "landscape"
+        "src": "public/photos/DSC_0258.png",
+        "title": "Photo 1"
     },
     {
-        "src": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=600",
-        "title": "Foggy Forest",
-        "category": "landscape"
+        "src": "public/photos/DSC_1379.png",
+        "title": "Photo 2"
     },
     {
-        "src": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600",
-        "title": "Sunlit Path",
-        "category": "nature"
+        "src": "public/photos/DSC_2504.png",
+        "title": "Photo 3"
     },
     {
-        "src": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?w=600",
-        "title": "Nature's Beauty",
-        "category": "nature"
+        "src": "public/photos/DSC_3289.png",
+        "title": "Photo 4"
     },
     {
-        "src": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?w=600",
-        "title": "Golden Hour",
-        "category": "landscape"
+        "src": "public/photos/DSC_3309.png",
+        "title": "Photo 5"
     },
     {
-        "src": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=600",
-        "title": "Waterfall",
-        "category": "nature"
+        "src": "public/photos/DSC_3683.png",
+        "title": "Photo 6"
+    },
+    {
+        "src": "public/photos/DSC_6943.png",
+        "title": "Photo 7"
+    },
+    {
+        "src": "public/photos/DSC_9543.png",
+        "title": "Photo 8"
+    },
+    {
+        "src": "public/photos/IMG_3851.png",
+        "title": "Photo 9"
     }
 ]
