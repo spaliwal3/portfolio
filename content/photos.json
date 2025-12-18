@@ -1,38 +1,38 @@
 [
     {
-        "src": "public/photos/DSC_0258.png",
-        "title": "Photo 1"
+        "src": "public/photos/velvet_petals.png",
+        "title": "Velvet Petals"
     },
     {
-        "src": "public/photos/DSC_1379.png",
-        "title": "Photo 2"
+        "src": "public/photos/blue_angels.png",
+        "title": "Blue Angels in Flight"
     },
     {
-        "src": "public/photos/DSC_2504.png",
-        "title": "Photo 3"
+        "src": "public/photos/mountain_highway.png",
+        "title": "Mountain Highway"
     },
     {
-        "src": "public/photos/DSC_3289.png",
-        "title": "Photo 4"
+        "src": "public/photos/bridge_in_mist.png",
+        "title": "Bridge in the Mist"
     },
     {
-        "src": "public/photos/DSC_3309.png",
-        "title": "Photo 5"
+        "src": "public/photos/hummingbird_dusk.png",
+        "title": "Hummingbird at Dusk"
     },
     {
-        "src": "public/photos/DSC_3683.png",
-        "title": "Photo 6"
+        "src": "public/photos/sf_fog.png",
+        "title": "San Francisco Fog"
     },
     {
-        "src": "public/photos/DSC_6943.png",
-        "title": "Photo 7"
+        "src": "public/photos/sandpipers_sunrise.png",
+        "title": "Sandpipers at Sunrise"
     },
     {
-        "src": "public/photos/DSC_9543.png",
-        "title": "Photo 8"
+        "src": "public/photos/pollinator_haven.png",
+        "title": "Pollinator's Haven"
     },
     {
-        "src": "public/photos/IMG_3851.png",
-        "title": "Photo 9"
+        "src": "public/photos/king_at_rest.png",
+        "title": "The King at Rest"
     }
 ]

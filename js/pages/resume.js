@@ -55,6 +55,18 @@ async function renderResumePage() {
         </div>
     `).join('') : '';
 
+    const activitiesHtml = resume.activities?.map(activity => `
+        <div class="resume-item">
+            <div class="resume-item-header">
+                <div>
+                    <span class="resume-title">${activity.title}</span>
+                    <span class="resume-company"> - ${activity.organization}</span>
+                </div>
+                <span class="resume-date">${activity.period}</span>
+            </div>
+        </div>
+    `).join('') || '';
+
     return `
         <div class="container">
             <div class="resume-header">
@@ -98,12 +110,20 @@ async function renderResumePage() {
                     </div>
                 </div>
             ` : ''}
+
+            ${activitiesHtml ? `
+                <div class="resume-section">
+                    <h3>Activities</h3>
+                    ${activitiesHtml}
+                </div>
+            ` : ''}
             
             ${resume.contact ? `
                 <div class="resume-section">
                     <h3>Contact</h3>
                     <div class="flex flex-wrap gap-lg">
                         ${resume.contact.email ? `<a href="mailto:${resume.contact.email}">${resume.contact.email}</a>` : ''}
+                        ${resume.contact.phone ? `<span>${resume.contact.phone}</span>` : ''}
                         ${resume.contact.github ? `<a href="${resume.contact.github}" target="_blank" rel="noopener">GitHub</a>` : ''}
                         ${resume.contact.linkedin ? `<a href="${resume.contact.linkedin}" target="_blank" rel="noopener">LinkedIn</a>` : ''}
                         ${resume.contact.website ? `<a href="${resume.contact.website}" target="_blank" rel="noopener">Website</a>` : ''}

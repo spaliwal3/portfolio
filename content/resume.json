@@ -1,48 +1,141 @@
 {
-    "name": "Samarth P",
-    "title": "Developer & Photographer",
+    "name": "Samarth Paliwal",
+    "title": "Software Engineer",
     "pdfUrl": "public/resume.pdf",
-    "summary": "Add your professional summary here. Describe who you are, what you do, and what drives you.",
+    "summary": "Enthusiastic Software Engineer passionate about leveraging innovative solutions to drive business growth. Adaptable professional with experience collaborating across teams in Fintech, Healthcare and Real Estate industries to improve processes and user experiences. Eager to deepen understanding and explore the diverse applications of AI/ML in a forward-thinking team focused on AI advancements.",
     "experience": [
         {
-            "title": "Your Job Title",
-            "company": "Company Name",
-            "startDate": "Month Year",
+            "title": "IT Operations Engineer",
+            "company": "M2 Exchange",
+            "startDate": "Jul 2024",
             "endDate": null,
-            "description": "Brief description of your role.",
+            "description": "Dubai, UAE",
             "highlights": [
-                "Key achievement or responsibility",
-                "Another notable accomplishment"
+                "Led the rollout of Microsoft 365 Copilot, delivering one-on-one training and support to employees and leadership on AI features, boosting productivity in a fintech startup.",
+                "Deployed and managed configuration policies across 200+ macOS endpoints using MDM, ensuring secure, standardized environments suitable for a crypto exchange environment.",
+                "Applied systematic debugging techniques to diagnose and resolve complex issues across interconnected hardware, software, and network systems, ensuring operational continuity.",
+                "Maintained operational stability for a high-availability, real-time trading platform, supporting critical data flows and collaborating with engineers."
+            ]
+        },
+        {
+            "title": "Developer/Business Analyst",
+            "company": "Agile Healthcare",
+            "startDate": "Jun 2021",
+            "endDate": "Jan 2023",
+            "description": "Remote",
+            "highlights": [
+                "Worked on implementation and testing of Medijuction telemedicine app and website, helping ensure compliance with requirements/security of patient data.",
+                "Reviewed/maintained vision documents and JIRA feature lists; conducted market research and competitive analysis to identify growth opportunities and inform product development decisions."
+            ]
+        },
+        {
+            "title": "Independent Equities Trader",
+            "company": "Self Employed",
+            "startDate": "Jan 2019",
+            "endDate": "Dec 2021",
+            "description": "Remote",
+            "highlights": [
+                "Successfully traded equities and options, increasing trading portfolio value. Analyzed market news, economic data, and company reports to inform trading decisions."
+            ]
+        },
+        {
+            "title": "Frontend Software Engineer",
+            "company": "Flyhomes",
+            "startDate": "Feb 2018",
+            "endDate": "Dec 2018",
+            "description": "Seattle, WA",
+            "highlights": [
+                "Developed responsive, multi-iteration landing pages for flyhomes.com using React, collaborating closely with designers and addressing bug fixes prior to release.",
+                "Engineered significant enhancements for an internal Offer & User management web application (React/Redux), improving workflow efficiency for sales and operations teams.",
+                "Developed custom, trackable launch pages for multiple US city markets, standardizing marketing analytics processes."
+            ]
+        },
+        {
+            "title": "Software Developer",
+            "company": "Sharp Health Plan",
+            "startDate": "Apr 2016",
+            "endDate": "Jan 2018",
+            "description": "San Diego, CA",
+            "highlights": [
+                "Implemented a new healthcare system to upgrade core business operations. Performed development, data analytics, and testing, affecting 100s of thousands of customers.",
+                "Established data format rules for customer web portals across different business scenarios, ensuring UI efficiency and reliability. Tested data format consistency between old/new systems.",
+                "Automated ~80% of ad hoc reporting across multiple teams, working with large sets of patient claim data, reducing query request and development time from hours to minutes."
+            ]
+        },
+        {
+            "title": "Software Engineering Intern",
+            "company": "Pfizer Inc",
+            "startDate": "Summer 2014",
+            "endDate": null,
+            "description": "Groton, CT",
+            "highlights": [
+                "Built a data visualization tool to monitor adoption and usage of internal pharmacological apps across Pfizer's R&D HQ, reducing development time of app metric reporting by 88%."
             ]
         }
     ],
     "education": [
         {
-            "degree": "Your Degree",
-            "school": "University Name",
-            "year": "Year",
-            "description": "Optional additional details"
+            "degree": "ME Software Systems",
+            "school": "BITS Pilani Dubai",
+            "year": "2025",
+            "description": "Dubai, UAE. Specializations: AI & ML"
+        },
+        {
+            "degree": "BS Computer Science",
+            "school": "Georgia Institute of Technology",
+            "year": "Dec 2015",
+            "description": "Atlanta, USA. Specializations: HCI, Databases & Networks"
         }
     ],
     "skills": {
+        "Tools": [
+            "LLMs",
+            "Azure",
+            "Jira",
+            "Jupyter",
+            "React",
+            "Redux",
+            "Git",
+            "AWS",
+            "Docker"
+        ],
         "Languages": [
-            "JavaScript",
             "Python",
+            "JavaScript",
+            "SQL",
+            "Java",
             "HTML/CSS"
         ],
-        "Tools & Technologies": [
-            "Git",
-            "VS Code",
-            "React"
-        ],
-        "Other": [
-            "Photography",
-            "Design"
+        "Coursework": [
+            "Blockchain",
+            "Machine Learning",
+            "Cloud Computing",
+            "Network Security",
+            "User Interface Design",
+            "Information Visualization",
+            "Database Systems",
+            "Technical Communication"
         ]
     },
+    "activities": [
+        {
+            "title": "Tutor",
+            "organization": "Learning Assistance Program",
+            "period": "Aug 2012 - Jan 2015"
+        },
+        {
+            "title": "Study Abroad",
+            "organization": "GT College of Computing",
+            "period": "Barcelona, Summer 2013"
+        },
+        {
+            "title": "Volunteer",
+            "organization": "Art of Living, GT College of Computing, Engineers for a Sustainable World",
+            "period": ""
+        }
+    ],
     "contact": {
-        "email": "your.email@example.com",
-        "github": "https://github.com/yourusername",
-        "linkedin": "https://linkedin.com/in/yourprofile"
+        "email": "samarth.paliwal@gmail.com",
+        "phone": "+971 5616 60275"
     }
 }
