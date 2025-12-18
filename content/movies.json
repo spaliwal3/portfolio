@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Example Movie Review",
+        "year": "2024",
+        "rating": 4,
+        "poster": "",
+        "review": "This is an example movie review. Add your own reviews here! The movies page also pulls your recent watches directly from Letterboxd."
+    }
+]

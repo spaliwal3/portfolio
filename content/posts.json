@@ -1,0 +1,10 @@
+[
+    {
+        "slug": "welcome",
+        "title": "Welcome to My Blog",
+        "date": "December 2024",
+        "category": "Personal",
+        "excerpt": "Welcome to my blog! Here I'll share my thoughts on technology, photography, film, and life.",
+        "content": "<p>Welcome to my blog!</p><p>Here I'll be sharing my thoughts, ideas, and things I find interesting. Topics might include:</p><ul><li>Technology and coding</li><li>Photography tips and adventures</li><li>Movie reviews and film analysis</li><li>Personal reflections</li></ul><p>Stay tuned for more posts!</p>"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": "project-1",
+        "title": "Your First Project",
+        "description": "Describe your project here. What problem does it solve? What technologies did you use?",
+        "image": "",
+        "tags": ["web", "javascript"],
+        "link": "",
+        "github": ""
+    },
+    {
+        "id": "project-2",
+        "title": "Another Cool Project",
+        "description": "Add another project description. Keep it concise but informative.",
+        "image": "",
+        "tags": ["design", "ui"],
+        "link": "",
+        "github": ""
+    }
+]
