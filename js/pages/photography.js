@@ -15,7 +15,7 @@ async function renderPhotographyPage() {
 
     const photosHtml = photos.map((photo, index) => `
         <div class="photo-grid-item reveal" style="transition-delay: ${index * 0.05}s" onclick="openLightbox(${index})">
-            <img src="${photo.src}" alt="${photo.title || 'Photo'}" loading="lazy">
+            <img src="${photo.thumb || photo.src}" alt="${photo.title || 'Photo'}" loading="lazy">
             <div class="photo-grid-overlay">
                 <p class="photo-grid-title">${photo.title || ''}</p>
             </div>
@@ -71,7 +71,7 @@ window.openLightbox = function (index) {
     const lightboxImg = document.getElementById('lightbox-img');
     const lightboxCaption = document.getElementById('lightbox-caption');
 
-    lightboxImg.src = photo.src;
+    lightboxImg.src = photo.full || photo.src;
     lightboxCaption.textContent = photo.title || '';
     lightbox.classList.add('active');
     document.body.style.overflow = 'hidden';
@@ -102,7 +102,7 @@ function updateLightboxImage() {
     const lightboxImg = document.getElementById('lightbox-img');
     const lightboxCaption = document.getElementById('lightbox-caption');
 
-    lightboxImg.src = photo.src;
+    lightboxImg.src = photo.full || photo.src;
     lightboxCaption.textContent = photo.title || '';
 }
 

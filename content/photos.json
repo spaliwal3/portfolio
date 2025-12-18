@@ -1,38 +1,38 @@
 [
     {
-        "src": "public/photos/velvet_petals.png",
+        "src": "public/photos/full/velvet_petals.jpg",
         "title": "Velvet Petals"
     },
     {
-        "src": "public/photos/blue_angels.png",
+        "src": "public/photos/full/blue_angels.jpg",
         "title": "Blue Angels in Flight"
     },
     {
-        "src": "public/photos/mountain_highway.png",
+        "src": "public/photos/full/mountain_highway.jpg",
         "title": "Mountain Highway"
     },
     {
-        "src": "public/photos/bridge_in_mist.png",
+        "src": "public/photos/full/bridge_in_mist.jpg",
         "title": "Bridge in the Mist"
     },
     {
-        "src": "public/photos/hummingbird_dusk.png",
+        "src": "public/photos/full/hummingbird_dusk.jpg",
         "title": "Hummingbird at Dusk"
     },
     {
-        "src": "public/photos/sf_fog.png",
+        "src": "public/photos/full/sf_fog.jpg",
         "title": "San Francisco Fog"
     },
     {
-        "src": "public/photos/sandpipers_sunrise.png",
+        "src": "public/photos/full/sandpipers_sunrise.jpg",
         "title": "Sandpipers at Sunrise"
     },
     {
-        "src": "public/photos/pollinator_haven.png",
+        "src": "public/photos/full/pollinator_haven.jpg",
         "title": "Pollinator's Haven"
     },
     {
-        "src": "public/photos/king_at_rest.png",
+        "src": "public/photos/full/king_at_rest.jpg",
         "title": "The King at Rest"
     }
 ]
